@@ -20,7 +20,7 @@ A solução do seu amigo(a) pode ajudar no seu problema, sem contar que é uma m
 ## 🤝 Contribuições <br/>
 
 1. Abra uma issue `Issue` neste repositório clicando no botão New issue
-2. No campo `Título`
+2. No campo `Título` digite o nome do problema e detalhe no campo descrição, junto com a solução
 
 ## 💡 Nossa proposta
 
