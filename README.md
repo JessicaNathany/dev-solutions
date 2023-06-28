@@ -17,7 +17,7 @@ A solução do seu amigo(a) pode ajudar no seu problema, sem contar que é uma m
 
 > Leia a descrição para saber como contribuir.
 
-##  Contribuições 🤝<br/>
+## 🤝 Contribuições <br/>
 
 1. Abra uma issue `Issue` neste repositório clicando no botão New issue
 2. No campo `Título`
